@@ -77,7 +77,6 @@ function App() {
             {/* Header / Barra Superior */}
             <header className="bg-white border-b border-gray-200 sticky top-0 z-40 px-6 py-4 flex items-center justify-between">
                 <div className="flex items-center gap-3">
-                    <div className="bg-blue-600 text-white p-2 rounded-lg font-bold text-xl tracking-tight shadow-md shadow-blue-500/20">J</div>
                     <h1 className="text-xl font-bold tracking-tight text-gray-900">Registro de fallas</h1>
                 </div>
                 <button 
